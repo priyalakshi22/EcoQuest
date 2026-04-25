@@ -2,7 +2,7 @@
 
 > An interactive educational game that teaches teens about the environment through quizzes, levels, and real-world eco tips.
 
-![EcoQuest Banner](./assets/banner.png)
+![EcoQuest Banner](./assets/logo.png)
 
 ---
 
