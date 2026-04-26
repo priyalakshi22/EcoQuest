@@ -13,7 +13,7 @@ A 3D action-adventure serious game that combines environmental storytelling with
 
 ## 🎮 About the Game
 
-**EcoQuest** is more than just a survival game—it's a narrative-driven experience about redemption, responsibility, and the lasting consequences of human actions on the environment. Set in an ecologically devastated world, players must navigate through four distinct levels, each offering unique gameplay mechanics and environmental challenges.
+**EcoQuest** is more than just a survival game . it's a narrative-driven experience about redemption, responsibility, and the lasting consequences of human actions on the environment. Set in an ecologically devastated world, players must navigate through four distinct levels, each offering unique gameplay mechanics and environmental challenges.
 
 ### 🌟 Key Features
 
